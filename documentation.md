@@ -1,3 +1,3 @@
 # Documentation
 
-[Docusaurus](https://docusaurus.io)
+* [Docusaurus](https://docusaurus.io)
