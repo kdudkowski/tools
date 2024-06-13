@@ -6,3 +6,7 @@
 * [Nx](https://nx.dev/)
 * [Vite](https://vitejs.dev/)
 * [Apollo](https://analogjs.org/)
+
+
+## Backend
+* [appwrite](https://appwrite.io/)
