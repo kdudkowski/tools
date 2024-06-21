@@ -3,3 +3,4 @@
 
 * [Development](dev.md)
 * [Documentation](documentation.md)
+* [DevOps](devops.md)
